@@ -1,0 +1,185 @@
+[
+  {
+    "name": "Electronics",
+    "children": [
+      {
+        "name": "Computers",
+        "children": [
+          {
+            "name": "Laptops",
+            "children": [
+              { "name": "Gaming Laptops", "children": [
+                  { "name": "Budget Gaming Laptops" },
+                  { "name": "Premium Gaming Laptops" },
+                  { "name": "Portable Gaming Laptops" },
+                  { "name": "VR-Ready Gaming Laptops" }
+                ]
+              },
+              { "name": "Business Laptops" },
+              { "name": "Student Laptops" },
+              { "name": "Ultrabooks" }
+            ]
+          },
+          {
+            "name": "Desktops",
+            "children": [
+              { "name": "Gaming Desktops" },
+              { "name": "Workstations" },
+              { "name": "Mini PCs" }
+            ]
+          },
+          { "name": "Monitors" },
+          { "name": "Peripherals" },
+          { "name": "Storage Devices" }
+        ]
+      },
+      {
+        "name": "Phones & Tablets",
+        "children": [
+          {
+            "name": "Smartphones",
+            "children": [
+              { "name": "Android Phones",
+                "children": [
+                  { "name": "Samsung" },
+                  { "name": "Google Pixel" },
+                  { "name": "OnePlus" },
+                  { "name": "Xiaomi" }
+                ]
+              },
+              { "name": "iPhones",
+                "children": [
+                  { "name": "iPhone 15 Series" },
+                  { "name": "iPhone 14 Series" },
+                  { "name": "iPhone SE" }
+                ]
+              },
+              { "name": "Feature Phones" }
+            ]
+          },
+          { "name": "Tablets" },
+          { "name": "Wearables" }
+        ]
+      },
+      { "name": "TV & Audio" },
+      { "name": "Cameras & Photography" },
+      {
+        "name": "Gaming",
+        "children": [
+          { "name": "Gaming Consoles" },
+          { "name": "PC Gaming" },
+          { "name": "Gaming Accessories" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Clothing",
+    "children": [
+      {
+        "name": "Men's Clothing",
+        "children": [
+          { "name": "Shirts",
+            "children": [
+              { "name": "Casual Shirts" },
+              { "name": "Formal Shirts" },
+              { "name": "T-Shirts",
+                "children": [
+                  { "name": "Graphic T-Shirts" },
+                  { "name": "Plain T-Shirts" },
+                  { "name": "Sport T-Shirts" },
+                  { "name": "V-Neck T-Shirts" }
+                ]
+              },
+              { "name": "Polo Shirts" }
+            ]
+          },
+          { "name": "Pants",
+            "children": [
+              { "name": "Jeans",
+                "children": [
+                  { "name": "Slim Fit Jeans" },
+                  { "name": "Straight Fit Jeans" },
+                  { "name": "Relaxed Fit Jeans" }
+                ]
+              },
+              { "name": "Chinos" },
+              { "name": "Shorts" }
+            ]
+          },
+          { "name": "Shoes" },
+          { "name": "Outerwear" }
+        ]
+      },
+      {
+        "name": "Women's Clothing",
+        "children": [
+          { "name": "Dresses" },
+          { "name": "Tops" },
+          { "name": "Bottoms" },
+          { "name": "Shoes" }
+        ]
+      },
+      { "name": "Kids' Clothing" },
+      { "name": "Accessories" }
+    ]
+  },
+  {
+    "name": "Home & Garden",
+    "children": [
+      {
+        "name": "Furniture",
+        "children": [
+          { "name": "Living Room",
+            "children": [
+              { "name": "Sofas & Couches",
+                "children": [
+                  { "name": "Leather Sofas" },
+                  { "name": "Fabric Sofas" },
+                  { "name": "Sectional Sofas" }
+                ]
+              },
+              { "name": "Coffee Tables" },
+              { "name": "TV Stands" },
+              { "name": "Armchairs" }
+            ]
+          },
+          { "name": "Bedroom",
+            "children": [
+              { "name": "Beds",
+                "children": [
+                  { "name": "Queen Size Beds" },
+                  { "name": "King Size Beds" },
+                  { "name": "Twin Beds" }
+                ]
+              },
+              { "name": "Wardrobes" },
+              { "name": "Nightstands" }
+            ]
+          },
+          { "name": "Office Furniture" },
+          { "name": "Dining Room" }
+        ]
+      },
+      { "name": "Kitchen & Dining" },
+      { "name": "Garden & Outdoor" },
+      { "name": "Home Decor" }
+    ]
+  },
+  {
+    "name": "Sports & Outdoors",
+    "children": [
+      { "name": "Fitness Equipment" },
+      { "name": "Camping & Hiking" },
+      { "name": "Water Sports" }
+    ]
+  },
+  {
+    "name": "Books & Media",
+    "children": [
+      { "name": "Books" },
+      { "name": "Music" },
+      { "name": "Movies & TV" }
+    ]
+  }
+]
